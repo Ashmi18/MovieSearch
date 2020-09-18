@@ -1,3 +1,3 @@
 # MovieSearch
 
-School assignent: Please go to Projects section to see description.
+School assignment: Please go to Projects section to see description.
